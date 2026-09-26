@@ -18,4 +18,6 @@ The About page includes Wenbo's photo and a PDF résumé.
 
 ## Hosting
 
-For Vercel or Netlify, import this repository, use `npm run build` as the build command, and set `dist` as the output folder. Hash-based page links work on static hosting without extra routing settings.
+Netlify site: https://wenbo-lin-portfolio.netlify.app
+
+To redeploy manually, run `npm run build` and deploy the `dist` folder to the linked Netlify project. If importing this repository for automatic deployment, use `npm run build` as the build command and `dist` as the output folder. Hash-based page links work on static hosting without extra routing settings.

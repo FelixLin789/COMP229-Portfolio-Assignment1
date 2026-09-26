@@ -10,6 +10,7 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+.netlify
 *.local
 .playwright-mcp
 Wenbo_Lin_COMP229_Assignment1.zip
