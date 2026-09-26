@@ -14,7 +14,7 @@ Run `npm run build` to create a production build. Run `npm run lint` to check th
 
 Home, About, Projects, Education, Services, and Contact are available from the navigation bar. The About page links to the PDF résumé. The Contact form saves the entered details in the current browser session and returns to Home, as required by the assignment. It does not send email.
 
-The portrait space is intentionally blank until Wenbo adds a photo.
+The About page includes Wenbo's photo and a PDF résumé.
 
 ## Hosting
 

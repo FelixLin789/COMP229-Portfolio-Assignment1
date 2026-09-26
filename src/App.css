@@ -13,7 +13,7 @@ h1 { margin-top: 0; }
 .button:hover { background: #ddd; }
 .notice { padding: 10px; border: 1px solid #aaa; }
 .about-grid, .contact-grid { display: grid; grid-template-columns: 240px 1fr; gap: 30px; }
-.photo-placeholder { height: 270px; display: grid; place-items: center; border: 1px dashed #888; text-align: center; }
+.portrait { width: 240px; height: 300px; object-fit: cover; }
 .project-grid, .service-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; margin-top: 25px; }
 .card img { width: 100%; }
 .card-body { padding-top: 10px; }
@@ -30,5 +30,4 @@ form .button { justify-self: start; }
 footer { border-top: 1px solid #ccc; padding: 15px 0; }
 @media (max-width: 700px) {
   .about-grid, .contact-grid, .project-grid, .service-grid, .form-row { grid-template-columns: 1fr; }
-  .photo-placeholder { width: 240px; }
 }

@@ -77,7 +77,7 @@ function App() {
         {page === 'About' && <section>
           <h1>About me</h1>
           <div className="about-grid">
-            <div className="photo-placeholder" aria-label="Photo to be added">Photo to be added</div>
+            <img className="portrait" src="/Wenbo_Lin_Portrait.jpg" alt="Wenbo Lin outdoors" />
             <div>
               <h2>Wenbo Lin</h2>
               <p>I’m based in Toronto and studying Software Engineering Technology (Co-op) at Centennial College. My projects include a Python flight-analysis tool, an interactive flashcard page, and software requirements work for a team project.</p>
