@@ -1,0 +1,8 @@
+:root { font-family: Arial, Helvetica, sans-serif; color: #243029; background: #fff; line-height: 1.6; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+a { color: #175a3b; }
+button, input, textarea { font: inherit; }
+img { max-width: 100%; display: block; }
+h1, h2, p { margin-top: 0; }
+:focus-visible { outline: 3px solid #298454; outline-offset: 3px; }

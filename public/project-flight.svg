@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="Flight route illustration">
+  <rect width="640" height="460" fill="#dfece5"/>
+  <circle cx="510" cy="70" r="160" fill="#c4dccb"/>
+  <circle cx="100" cy="420" r="190" fill="#d3e7d9"/>
+  <rect x="72" y="63" width="496" height="338" rx="18" fill="#f9fcf8" stroke="#b8d4c0" stroke-width="3"/>
+  <rect x="72" y="63" width="496" height="46" rx="18" fill="#2e6044"/>
+  <path d="M72 90h496v19H72z" fill="#2e6044"/>
+  <circle cx="102" cy="87" r="5" fill="#a9d2af"/><circle cx="120" cy="87" r="5" fill="#a9d2af"/><circle cx="138" cy="87" r="5" fill="#a9d2af"/>
+  <text x="102" y="151" fill="#315844" font-family="Arial,sans-serif" font-size="16" font-weight="700">FLIGHT HISTORY</text>
+  <text x="102" y="174" fill="#7c9b87" font-family="Arial,sans-serif" font-size="11">ROUTE OVERVIEW</text>
+  <path d="M135 287Q300 128 501 266" fill="none" stroke="#75a77f" stroke-width="5" stroke-dasharray="9 8"/>
+  <circle cx="135" cy="287" r="12" fill="#2e6044"/><circle cx="501" cy="266" r="12" fill="#2e6044"/>
+  <path d="m298 224 57-23-27 27 11 18-13 5-16-16-17 2z" fill="#2e6044"/>
+  <text x="113" y="320" fill="#315844" font-family="Arial,sans-serif" font-size="13" font-weight="700">YYZ</text>
+  <text x="482" y="299" fill="#315844" font-family="Arial,sans-serif" font-size="13" font-weight="700">DEST</text>
+  <rect x="103" y="342" width="434" height="31" rx="6" fill="#e9f3ea"/>
+  <rect x="119" y="352" width="130" height="10" rx="5" fill="#a6c6ab"/>
+  <rect x="272" y="352" width="72" height="10" rx="5" fill="#bfd8c2"/>
+  <rect x="365" y="352" width="147" height="10" rx="5" fill="#a6c6ab"/>
+</svg>

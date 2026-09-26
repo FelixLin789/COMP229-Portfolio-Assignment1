@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="Flashcard illustration">
+  <rect width="640" height="460" fill="#e9e7d9"/>
+  <circle cx="90" cy="75" r="130" fill="#f1eedf"/>
+  <circle cx="600" cy="410" r="175" fill="#dcd9c6"/>
+  <rect x="126" y="81" width="400" height="300" rx="20" fill="#f8f8f0" stroke="#d8d7c8" stroke-width="3" transform="rotate(8 326 231)"/>
+  <rect x="109" y="77" width="400" height="300" rx="20" fill="#fdfdf9" stroke="#d8d7c8" stroke-width="3" transform="rotate(-5 309 227)"/>
+  <rect x="120" y="72" width="400" height="300" rx="20" fill="#fbfcf8" stroke="#c9d7c5" stroke-width="3"/>
+  <text x="150" y="112" fill="#6e9474" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">WORDCARDS  /  01</text>
+  <line x1="150" y1="130" x2="490" y2="130" stroke="#e5ebe1" stroke-width="2"/>
+  <text x="320" y="215" text-anchor="middle" fill="#2c5e41" font-family="Georgia,serif" font-size="40" font-style="italic">discover</text>
+  <text x="320" y="247" text-anchor="middle" fill="#839a83" font-family="Arial,sans-serif" font-size="14">tap to reveal the meaning</text>
+  <rect x="258" y="281" width="124" height="38" rx="8" fill="#2e6044"/>
+  <text x="320" y="306" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="13" font-weight="700">REVEAL</text>
+  <circle cx="267" cy="346" r="4" fill="#9fc39e"/><circle cx="284" cy="346" r="4" fill="#9fc39e"/><circle cx="301" cy="346" r="4" fill="#d5e2d1"/>
+</svg>
